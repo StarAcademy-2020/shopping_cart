@@ -1,0 +1,43 @@
+.col-sm-4
+{
+    border: 1px solid red;
+    height: 500px;
+    width: 300px;
+}
+.img1
+{
+   background-image: url(../image/01.jpg);
+   background-repeat: no-repeat;
+   height: 100px;
+   width: 100px;
+   background-position: right top;
+}
+
+.img2
+{
+    background-image: url(../image/02.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position: top;
+    background-position: 50% 0;
+    /* background-attachment: fixed; */
+}
+.img3
+{
+    background-image: url(../image/03.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position:left top;
+    background-position: 100% 0;
+}
+.img4
+{
+    background-image: url(../image/04.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-position:center;
+   
+}
